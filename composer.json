@@ -1,0 +1,46 @@
+{
+    "name": "justoverclock/auto-post-count-badge",
+    "description": "Add Automatic badge to user after certain number of posts",
+    "keywords": [
+        "post badge",
+        "badge",
+        "post count badge"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "require-dev": {
+        "flarum/testing": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "funding": [
+        {
+            "type": "website",
+            "url": "https://www.paypal.com/donate?hosted_button_id=25WSH565TJCLE"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\AutoPostCountBadge\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Auto Post Badge",
+            "category": "",
+            "icon": {
+                "name": "fas fa-medal",
+                "backgroundColor": "orange",
+                "color": "black"
+            }
+        }
+    }
+}
