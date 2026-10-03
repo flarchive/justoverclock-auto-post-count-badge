@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/auto-post-count-badge.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/auto-post-count-badge) or the [upstream repository](https://github.com/justoverclockl/auto-post-count-badge).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**12** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-11-17 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-11-17 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-11-17 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-11-18 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-11-18 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-11-19 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-11-19 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-11-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.7) |
+| `0.1.8` | 2021-12-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.8) |
+| `0.1.9` | 2021-12-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-auto-post-count-badge/tree/archive/v0.1.9) |
+
+[View all 12 versions](https://github.com/flarchive/justoverclock-auto-post-count-badge/tags)
 
 Catalog entry: [packages/justoverclock-auto-post-count-badge.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-auto-post-count-badge.json)
 
